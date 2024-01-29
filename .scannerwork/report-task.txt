@@ -1,0 +1,6 @@
+projectKey=26042_SonarQube_POC_MultiModule:10
+serverUrl=http://172.26.61.190:9000
+serverVersion=9.9.3.79811
+dashboardUrl=http://172.26.61.190:9000/dashboard?id=26042_SonarQube_POC_MultiModule%3A10
+ceTaskId=AY012IIXx4OJylS7LF-c
+ceTaskUrl=http://172.26.61.190:9000/api/ce/task?id=AY012IIXx4OJylS7LF-c
